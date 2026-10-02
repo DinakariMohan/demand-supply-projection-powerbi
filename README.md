@@ -1,4 +1,6 @@
-<div align=centre> **Demand Supply Projection Report**</div>
+<div align="centre"> 
+  #Demand Supply Projection Report
+</div>
 
 How do you know whether a factory will deliver what customers ordered, and where it will fail, before it's too late to act?
 

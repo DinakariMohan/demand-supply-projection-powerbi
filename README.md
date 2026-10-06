@@ -12,7 +12,8 @@ GitHub can't display a Power BI file in the browser, so there are three ways to 
 
 - **Quick look:** read the [report as a PDF](https://github.com/DinakariMohan/demand-supply-projection-powerbi/blob/main/Demand_Supply_Projection_Report.pdf) (all pages, no software needed)
 - **Explore it:** [download the Power BI file](https://github.com/DinakariMohan/demand-supply-projection-powerbi/blob/main/Demand_Supply_Projection_Report.pbix) and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows). Use the slicers and right-click a bar or a demand line to drill through
-- **Screenshots:** see the [images](02_demand_detail.png) 
+
+![Demand detail page](02_demand_detail.png)
 
 ## The business question
 
@@ -105,7 +106,7 @@ The synthetic data includes test cases built to stress the logic: demand lines t
 
 1. Download the `.pbix` file (open it on GitHub, then select **Download raw file**).
 2. Open it in Power BI Desktop.
-3. If Power BI asks, point the data source to `data/demand_supply_star_schema_v2.xlsx`.
+3. If Power BI asks, point the data source to `demand_supply_star_schema.xlsx`.
 
 ## Known limitations
 

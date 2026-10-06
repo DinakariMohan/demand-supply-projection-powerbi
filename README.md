@@ -131,4 +131,4 @@ Open an issue or leave a comment with your vote.
 I'm Dinakari Mohan, a business and data analyst in global supply chain, based in Västerås, Sweden. I'm building this project to practise SQL, Power BI and DAX, and I'm still learning DAX, so feedback is welcome.
 
 - GitHub: [github.com/DinakariMohan](https://github.com/DinakariMohan)
-- LinkedIn: [www.linkedin.com/DinakariMohan](https://linkedin.com/DinakariMohan)
+- LinkedIn: [www.linkedin.com/DinakariMohan](https://linkedin.com/in/DinakariMohan)

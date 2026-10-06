@@ -4,7 +4,7 @@ A Power BI report that shows whether customer demand is being met by supply, whe
 
 > **All data in this project is synthetic.** It was generated for this portfolio project. It does not come from any employer or customer.
 
-![Overview page](images/01_overview.png)
+![Overview page](01_overview.png)
 
 ## View the report
 

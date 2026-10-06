@@ -12,7 +12,7 @@ GitHub can't display a Power BI file in the browser, so there are three ways to 
 
 - **Quick look:** read the [report as a PDF](https://github.com/DinakariMohan/demand-supply-projection-powerbi/blob/main/Demand_Supply_Projection_Report.pdf) (all pages, no software needed)
 - **Explore it:** [download the Power BI file](https://github.com/DinakariMohan/demand-supply-projection-powerbi/blob/main/Demand_Supply_Projection_Report.pbix) and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows). Use the slicers and right-click a bar or a demand line to drill through
-- **Screenshots:** see the [images](images/) folder
+- **Screenshots:** see the [images](https://github.com/DinakariMohan/demand-supply-projection-powerbi/blob/main/02_demand_detail.png) 
 
 ## The business question
 
@@ -95,14 +95,10 @@ The synthetic data includes test cases built to stress the logic: demand lines t
 ├── README.md
 ├── Demand_Supply_Projection_Report.pbix
 ├── Demand_Supply_Projection_Report.pdf
-├── data/
-│   └── demand_supply_star_schema_v2.xlsx
-├── images/
+│   └── demand_supply_star_schema.xlsx
 │   ├── 01_overview.png
 │   ├── 02_demand_detail.png
 │   └── 03_supply_detail.png
-└── scripts/
-    └── add_fulfilment_scenarios.py
 ```
 
 ## How to open it
@@ -134,4 +130,4 @@ Open an issue or leave a comment with your vote.
 I'm Dinakari Mohan, a business and data analyst in global supply chain, based in Västerås, Sweden. I'm building this project to practise SQL, Power BI and DAX, and I'm still learning DAX, so feedback is welcome.
 
 - GitHub: [github.com/DinakariMohan](https://github.com/DinakariMohan)
-- LinkedIn: add your profile link here
+- LinkedIn: [www.linkedin.com/DinakariMohan](https://www.linkedin.com/DinakariMohan)

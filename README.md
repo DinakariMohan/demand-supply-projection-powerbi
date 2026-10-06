@@ -10,7 +10,7 @@ A Power BI report that shows whether customer demand is being met by supply, whe
 
 GitHub can't display a Power BI file in the browser, so there are three ways to see it:
 
-- **Quick look:** read the [report as a PDF](Demand_Supply_Projection_Report.pdf) (all pages, no software needed)
+- **Quick look:** read the [report as a PDF](https://github.com/DinakariMohan/demand-supply-projection-powerbi/blob/main/Demand_Supply_Projection_Report.pdf) (all pages, no software needed)
 - **Explore it:** [download the Power BI file](Demand_Supply_Projection_Report.pbix) and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows). Use the slicers and right-click a bar or a demand line to drill through
 - **Screenshots:** see the [images](images/) folder
 

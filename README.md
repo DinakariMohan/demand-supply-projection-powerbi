@@ -12,7 +12,7 @@ GitHub can't display a Power BI file in the browser, so there are three ways to 
 
 - **Quick look:** read the [report as a PDF](https://github.com/DinakariMohan/demand-supply-projection-powerbi/blob/main/Demand_Supply_Projection_Report.pdf) (all pages, no software needed)
 - **Explore it:** [download the Power BI file](https://github.com/DinakariMohan/demand-supply-projection-powerbi/blob/main/Demand_Supply_Projection_Report.pbix) and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows). Use the slicers and right-click a bar or a demand line to drill through
-- **Screenshots:** see the [images](https://github.com/DinakariMohan/demand-supply-projection-powerbi/blob/main/02_demand_detail.png) 
+- **Screenshots:** see the [images](02_demand_detail.png) 
 
 ## The business question
 
@@ -35,7 +35,7 @@ Most reports collapse an order into one status. This report keeps the split, so 
 | **Supply detail** (drill-through) | For one demand line: how it was met (on time, late, not met), a timeline of supply arrivals against the need-by date, and a table of supply lines with days vs need-by |
 | **About** | Report description and definitions of every status and term |
 
-![Supply detail page](images/03_supply_detail.png)
+![Supply detail page](03_supply_detail.png)
 
 ## Key definitions
 

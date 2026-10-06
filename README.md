@@ -30,7 +30,7 @@ Show the business where demand is not being met by supply, find the bottlenecks 
 - This project uses synthetic data, so the results show the method, not real company performance.
 
 **Built with** Power BI, SQL and Python, using synthetic data. 
-**Status:** in progress.
+**Status:** Completed.
 
 What alert would you want to see first in a report like this?
 

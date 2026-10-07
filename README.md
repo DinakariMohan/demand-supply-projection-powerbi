@@ -49,7 +49,7 @@ Most reports collapse an order into one status. This report keeps the split, so 
 | Not met qty | Demand minus met on time minus met late |
 | Fulfilment % | (Met on time + met late) / demand |
 
-**Line status**
+**Demand Type**
 
 | Status | Meaning |
 |---|---|
@@ -60,6 +60,7 @@ Most reports collapse an order into one status. This report keeps the split, so 
 | Not Met | None of the demand arrived |
 
 The full list is on the **About** page of the report.
+![About page](04_about.png)
 
 ## How demand is matched to supply
 
